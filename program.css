@@ -1,0 +1,13 @@
+.name{
+    color: blueviolet;
+    text-decoration: double;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 40px;
+    padding-left: 0vh;
+    padding-top: 0ex;
+}
+button{
+    background-color: aqua;
+    color:cadetblue;
+    font-family:cursive; 
+}
